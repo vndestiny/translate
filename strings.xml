@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Navigate home</string>
+<string name="abc_action_bar_up_description">Navigate up</string>
+<string name="abc_action_menu_overflow_description">More options</string>
+<string name="abc_action_mode_done">Done</string>
+<string name="abc_activity_chooser_view_see_all">See all</string>
+<string name="abc_activitychooserview_choose_application">Choose an app</string>
+<string name="abc_capital_off">OFF</string>
+<string name="abc_capital_on">ON</string>
+<string name="abc_menu_alt_shortcut_label">Alt+</string>
+<string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+<string name="abc_menu_delete_shortcut_label">delete</string>
+<string name="abc_menu_enter_shortcut_label">enter</string>
+<string name="abc_menu_function_shortcut_label">Function+</string>
+<string name="abc_menu_meta_shortcut_label">Meta+</string>
+<string name="abc_menu_shift_shortcut_label">Shift+</string>
+<string name="abc_menu_space_shortcut_label">space</string>
+<string name="abc_menu_sym_shortcut_label">Sym+</string>
+<string name="abc_prepend_shortcut_label">Menu+</string>
+<string name="abc_search_hint">Search…</string>
+<string name="abc_searchview_description_clear">Clear query</string>
+<string name="abc_searchview_description_query">Search query</string>
+<string name="abc_searchview_description_search">Search</string>
+<string name="abc_searchview_description_submit">Submit query</string>
+<string name="abc_searchview_description_voice">Voice search</string>
+<string name="abc_shareactionprovider_share_with">Share with</string>
+<string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+<string name="abc_toolbar_collapse_description">Collapse</string>
+<string name="adapt">adapt</string>
+<string name="admin_noty">App needs your permission</string>
+<string name="agree">Agree</string>
+<string name="app_close">How to close</string>
+<string name="app_logic">App Lighting Method</string>
+<string name="app_logic_ambient">With AOD (Killshot)</string>
+<string name="app_logic_ambient_discription">"If system AOD was on then AOE will light in it, instead of a custom screen (lights only without widgets). but if AOD was off the Default method will be used. 
+ this requires the permission to enable AOE as an accessibility service. 
+ AOE is indeed helpful especially for deaf people to know what notifications they got. 
+ this also uses less battery."</string>
+<string name="app_logic_default">Independent (Default)</string>
+<string name="app_logic_default_discription">Display lighting and the enabled widgets in a custom new screen</string>
+<string name="app_logic_saver">With AOD invisible</string>
+<string name="app_logic_saver_discription">Exactly similar to the method above, but AOD content will be hided. if you do not want AOD but want the advantages of the above method. REQUIRES TEXT ONLY CLOCK IN AOD SETTINGS.</string>
+<string name="app_logic_saver_temp">but show AOD on notifications</string>
+<string name="app_name">Always On Edge</string>
+<string name="app_name_full">Always On Edge</string>
+<string name="app_permissions">required permissions</string>
+<string name="app_permissions_optional">Optional permissions (preferred)</string>
+<string name="app_restrice">Restrictions</string>
+<string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+<string name="appid">ca-app-pub-8737254093875436~5709727140</string>
+<string name="appps_colors">select enabled apps and its color and time ></string>
+<string name="apprunSettings">App Settings</string>
+<string name="areyousure">Are you sure?</string>
+<string name="auto">adjust automatically</string>
+<string name="battery_resteict">"Don't run if battery level less than:"</string>
+<string name="bot_corners">bottom corners</string>
+<string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+<string name="buy">"Buy 0.99$ 
+ Unlock+Remove Ads"</string>
+<string name="buydonate10">"Buy and Support 10$ 
+ Unlock+Remove Ads"</string>
+<string name="buydonate2">"Buy and Support 2$ 
+ Unlock+Remove Ads"</string>
+<string name="buydonate25">"Buy and Support 25$ 
+ Unlock+Remove Ads"</string>
+<string name="buydonate5">"Buy and Support 5$ 
+ Unlock+Remove Ads"</string>
+<string name="cancel">Cancel</string>
+<string name="cantbuy">-100% Discount</string>
+<string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+<string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+<string name="character_counter_pattern">%1$d / %2$d</string>
+<string name="chargetoclose">do not run while charging</string>
+<string name="chip_text">Chip text</string>
+<string name="choose">choose</string>
+<string name="choose_color">pick a color</string>
+<string name="choose_image">choose image</string>
+<string name="clear_text_end_icon_content_description">Clear text</string>
+<string name="clockPrimaryColor">Primary Color</string>
+<string name="clockSecondaryColor">Secondary Color</string>
+<string name="clockSize">clock size</string>
+<string name="clock_12">12H system</string>
+<string name="clock_24">24H system</string>
+<string name="clock_analog">Analog</string>
+<string name="clock_image">background image</string>
+<string name="clock_settings">clock settings</string>
+<string name="clock_type">clock style</string>
+<string name="close_to_guard">go to the guard screen if I closed the app</string>
+<string name="color">Edges color</string>
+<string name="colorr">color</string>
+<string name="colors_1">One color</string>
+<string name="colors_2">Two</string>
+<string name="colors_3">Three</string>
+<string name="colors_num">Edges color number</string>
+<string name="colors_waves">colors waves</string>
+<string name="colors_waves_settings">colors waves (try with stable style!)</string>
+<string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+<string name="corners">Device Screen corners?</string>
+<string name="corners_curved">curved corners</string>
+<string name="corners_manual">adjust manually</string>
+<string name="corners_regular">regular corners</string>
+<string name="corners_simi">little curved corners</string>
+<string name="crop">crop</string>
+<string name="dateSize">date text size</string>
+<string name="default_lighting_time">default lighting time :</string>
+<string name="defaultt">default</string>
+<string name="disable_noti">remove AOE icon from notification bar ></string>
+<string name="disable_others">disable any another edge lighting apps, even system edge lighting</string>
+<string name="disagree">Disagree</string>
+<string name="dndtoclose">Do not run if Do Not Disturb mode is enabled</string>
+<string name="donate">Support Via Donate</string>
+<string name="donaterate">Support Via Rating</string>
+<string name="done">Save</string>
+<string name="dontrunfrom">from</string>
+<string name="doubletoclose">Double tap to close</string>
+<string name="doze_mode">app restriction</string>
+<string name="doze_mode_off">allow this app to run without restriction</string>
+<string name="doze_mode_on">allow the system to prevent this app from running sometimes</string>
+<string name="emoji">choose emoji</string>
+<string name="emoji_always">always</string>
+<string name="emoji_once">once</string>
+<string name="emojione">Emoji icons supplied by EmojiOne</string>
+<string name="enable">Enable</string>
+<string name="enable_all">Enable All</string>
+<string name="enable_aod_always">method 2and3 will not work if AOD is Tap to show or scheduled, default will be used with less smooth lighting</string>
+<string name="enable_clock">Display clock</string>
+<string name="enable_dim">Adjust brightness</string>
+<string name="enable_edge">enable edge lighting</string>
+<string name="enable_edgemask">Edge Corners Mask</string>
+<string name="enable_emoji">Emoji icon fall</string>
+<string name="enable_fingerprint">finger print is not working, try to fix it.</string>
+<string name="enable_galaxy">Change background</string>
+<string name="enable_homebutton">display home button</string>
+<string name="enable_musicer">music controller, buttons.</string>
+<string name="enable_musicerinvisible">music controller, invisible, swipe to right or left</string>
+<string name="enable_notch">enable notch support</string>
+<string name="enable_noty">Display notifications icons</string>
+<string name="enable_notybacked">in a bar background</string>
+<string name="enable_notybadge">number badge</string>
+<string name="enable_notybordered">bordered icons</string>
+<string name="enable_notyclick">long click to open</string>
+<string name="enable_notycolored">colored icons</string>
+<string name="enable_notyhinted">preview panel</string>
+<string name="encourageme">a rate takes you a second, means to me forever</string>
+<string name="example">Example</string>
+<string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+<string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+<string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+<string name="free0">"Free 0$ 
+ Watch Video Ad"</string>
+<string name="free0rate">"Free 0$ 
+ Rate this app"</string>
+<string name="galaxy_image">select image from gallery</string>
+<string name="genie_app">The genie is ugly, but it is so powerful, it do all what you want in a beautifull way. just like this app!. please read options slowly :)</string>
+<string name="getitfree">"you can't buy?? email me to get it for free! info@aoeapps.com"</string>
+<string name="give_admin_noty">to display notifications icons apps need your permission to deal with notificcations</string>
+<string name="grant_access">Notification access</string>
+<string name="grant_accessibility">Accessibility Service</string>
+<string name="grant_hide">Hide notifications content if device is locked</string>
+<string name="grant_over">Show over other apps</string>
+<string name="grant_phone">Phone state</string>
+<string name="grant_system">Change system settings</string>
+<string name="gravity">Content horizontal gravity</string>
+<string name="gravity_center">Center</string>
+<string name="gravity_left">Left</string>
+<string name="gravity_right">Right</string>
+<string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+<string name="horizontal">horizontal</string>
+<string name="icon_content_description">Dialog Icon</string>
+<string name="image_dim">image dim</string>
+<string name="important_note">Important Note</string>
+<string name="intadid">ca-app-pub-8737254093875436/7602741781</string>
+<string name="isclock_date">show date</string>
+<string name="isclock_seconds">show seconds (analog clocks, more power)</string>
+<string name="landscape">screen rotate</string>
+<string name="lighting_time">lighting time :</string>
+<string name="longtaptoclose">Long touch to close (simulate on-screen fingerprint)</string>
+<string name="manual">adjust manually</string>
+<string name="me">-Sincerely, Me</string>
+<string name="min">minute</string>
+<string name="mtrl_badge_numberless_content_description">New notification</string>
+<string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+<string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+<string name="mtrl_picker_cancel">@android:string/cancel</string>
+<string name="mtrl_picker_confirm">@android:string/ok</string>
+<string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+<string name="mtrl_picker_date_header_selected">%1$s</string>
+<string name="mtrl_picker_date_header_title">Select a Date</string>
+<string name="mtrl_picker_date_header_unselected">Selected Date</string>
+<string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+<string name="mtrl_picker_range_header_title">Select a Date Range</string>
+<string name="mtrl_picker_range_header_unselected">Start Date - End Date</string>
+<string name="musicer_headset">only when headset connected</string>
+<string name="never">never</string>
+<string name="no">No</string>
+<string name="not_saved">Settings was not saved yet</string>
+<string name="notchHight">notch height</string>
+<string name="notchWidth">notch width</string>
+<string name="notchWidthbot">notch width top</string>
+<string name="notchradius">curve radius</string>
+<string name="notchright">right</string>
+<string name="notchtop">top (set 0 if not hole)</string>
+<string name="notchtype">notch type</string>
+<string name="notchtype_o">O</string>
+<string name="notchtype_others">other</string>
+<string name="notchtype_u">U</string>
+<string name="notchtype_vnarrow">V-narrow</string>
+<string name="notchtype_vwide">V-wide</string>
+<string name="notworking">not working?</string>
+<string name="notworkinghelp">"IMPORTANT NOTE: 
+ First turn off any another app for edge lighting. 
+ Search google for : Device name + apps not working in background. 
+ The exact steps for this process will vary depending on your device model. We recommend using the information here as a starting point. Some Googling with your precise model details should find instructions specific to your device. 
+ in app settings page there is an option called  app restriction  chose the first option if you are facing an issue. ----------------------- 
+ * Xiaomi 
+ issue in system : When you enable Notification Access Disable Xiamoi service framework then Enable Always On Edge then enable again Xiamoi service framework. 
+ Go to Security >> Battery >> App Battery Saver >> AOE >> No restrictions. 
+ Go to Security >> Permissions >> Auto start >> enable AOE. 
+ Go to Security >> Permissions >> Permissions >> AOE >> Start in background. 
+ or Go to Settings >> Installed Apps >> AOE > Battery Saver >> No Restrictions 
+ or Go to Security >> Manage Apps >> Edge Lighting >> Auto start. 
+ 
+ ----------------------- 
+ * LG 
+ Go to Settings >> Battery >> Battery Usage >> Ignore optimizations. enable ignore battery optimizations for AOE 
+ ----------------------- 
+ * Asus 
+ give it auto start permission and disable clean app in suspend in auto start manager. you need to save settings again 
+ ----------------------- 
+ * Elephone 
+ Disable the background task clear in Settings - Background task clear (slidey switch to turn off) 
+ ----------------------- 
+ * OnePlus 
+ Make sure AOE is in the auto-launch list. Open up Settings and click Apps, the gear icon, and then Apps Auto-launch. Find AOE in the list and toggle it on to enable autolaunch. for notifications lighting Turn ON New notifications in Ambient display. 
+ ----------------------- 
+ * Oppo 
+ Open Permission Monitor >> Autorun Managerment >> Select aoe. 
+ Make sure AOE is on the list of allowed start-up apps. Open Security Center, click Privacy Permissions, then Startup Manager, and then allow AOE App to start-up in the background. 
+ ----------------------- 
+ * Vivo 
+ Go to IManager >> App Manager >> Autostart Manager. 
+ Enable the auto-start setting for the AOE app. Open i Manager, click App Manager, then Autostart manager, and then allow AOE App to auto-start in the background. 
+ ----------------------- 
+ * Lenovo 
+ Enable the auto-start setting for the AOE app. Open Settings and click Power Manager and then Background app management. Flip the Allow auto-start toggle for the AOE app. 
+ ----------------------- 
+ * Huawei 
+ Go to Phone Manager >> Protect Apps >> Select. 
+ Make sure AOE is on the list of protected apps. Open System settings, then Advanced Settings, then Battery Manager, and finally Protected apps. Enable the toggle next to AOE to allow it to keep running even after the screen is turned off. 
+ ----------------------- 
+ * Samsung 
+ Disable Samsung Edge Lighting. 
+ Settings, then device maintenance, then Battery. scroll to the bottom and enter unmonitored apps and add this app. 
+ Switch off battery optimisation for AOE. Open Settings, then Apps, then the three dots on the upper right corner, then Special Access, then Optimize battery usage. From here, tap on the dropdown menu that says 'Apps not optimized’, then switch it to all apps and then switch off battery optimisation for the AOE App. 
+ Exclude the AOE app from any of the battery optimization features on your device. You'll find these in Settings, then Battery. You'll need to disable battery optimization for the AOE app, as well as checking to make sure the Restrict background data setting is disabled. 
+ ----------------------- 
+ * Meizu 
+ please go to app info and give it Allow running in background instead of Smart background. the problem is all about how Flyme OS is an oddly edited Android OS. please also search for standby management, Auto-launched apps, Notifications of apps, Memory acceleration whitelist. ----------------------- 
+"</string>
+<string name="notySize">icon size</string>
+<string name="noty_reminder">Reminder, while screen is off, repeat lighting for 8 seconds every %1$d seconds.</string>
+<string name="noty_reminder_limit">reminder times limit :</string>
+<string name="ok">OK</string>
+<string name="orientation">Screen orientation</string>
+<string name="password_toggle_content_description">Show password</string>
+<string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+<string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+<string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+<string name="permission">your permission is needed</string>
+<string name="phonestate_permission">So that the app does not bother you during the phone call and stops working until you finish, phone state permission is needed, only call state not its details permission</string>
+<string name="pickup_mode">SmartUnlock, when device on flat surface and I pick it up, close and open screen (more power)</string>
+<string name="pocket_mode">pocket mode, close when in pocket or screen faced down, resume when out (more power)</string>
+<string name="power_botton">Power button function :</string>
+<string name="power_botton_off">close and turn screen off</string>
+<string name="power_botton_on">close and turn lock screen on</string>
+<string name="preview">Preview</string>
+<string name="pupid">pub-8737254093875436</string>
+<string name="quick_settings">Quick On/Off button</string>
+<string name="quotetoday">Quote Of The Day</string>
+<string name="reportissue">Feel free to contact me if there is any issue it will be fixed within the same day, or even for features request >> info@aoeapps.com</string>
+<string name="reset">Reset</string>
+<string name="run">How/When to Light?</string>
+<string name="run_always">automatic, always anytime I lock screen</string>
+<string name="run_always_literary">while screen is on after unlocking:</string>
+<string name="run_aminute">minutes after device lock :</string>
+<string name="run_calls">when making or receiving a call</string>
+<string name="run_charge">when I put device on charge</string>
+<string name="run_charge_full">Red Light for %1$d minute after plug in, then green light again when battery become full</string>
+<string name="run_charge_wireless">wireless charge only</string>
+<string name="run_everyminute">run 20 seconds every :</string>
+<string name="run_headset">when headset plugged</string>
+<string name="run_manually">manually, only when I want it, I open the app</string>
+<string name="run_mixed">mixed, clock always, edges 10s every minute</string>
+<string name="run_mixednoty">clock always, edges when a notification comes</string>
+<string name="run_music">Lighting when listening to music</string>
+<string name="run_notifications">when a notification comes</string>
+<string name="run_notifications_both">always, off or on</string>
+<string name="run_notifications_hint">if screen was on, only apps settings, edges with colors or wave animation and app interval will takes effect, no widgets, no custom colors.</string>
+<string name="run_notifications_off">and screen is off</string>
+<string name="run_notifications_on">and screen is on</string>
+<string name="run_recent_apps">when open recent apps menu</string>
+<string name="run_wallpaper">Live Wallpaper</string>
+<string name="runover_lock">light over system lock screen instead of black screen (requires wallpaper reset)</string>
+<string name="s1">Save image</string>
+<string name="s2">Allow Ad to store image in Picture gallery?</string>
+<string name="s3">Accept</string>
+<string name="s4">Decline</string>
+<string name="s5">Create calendar event</string>
+<string name="s6">Allow Ad to create a calendar event?</string>
+<string name="s7">Test Ad</string>
+<string name="saved">Settings saved successfully</string>
+<string name="search">search</string>
+<string name="search_menu_title">Search</string>
+<string name="sec">second</string>
+<string name="sensor">sensor</string>
+<string name="share">Share</string>
+<string name="show_battery">Show battery level</string>
+<string name="show_battery_icon">battery icon</string>
+<string name="show_battery_percentage">percentage symbol</string>
+<string name="show_note">show text note</string>
+<string name="show_system_apps">show system apps</string>
+<string name="sides_only">Lighting place</string>
+<string name="sides_only_all">around all screen</string>
+<string name="sides_only_hor">top and bottom sides only</string>
+<string name="sides_only_notch">around notch only</string>
+<string name="sides_only_ver">right and left sides only</string>
+<string name="sleep_time">Do not run app in between this times like sleep time</string>
+<string name="slidetoclose">Swipe up to close</string>
+<string name="smartunlock">get brightness patch for system bar</string>
+<string name="space">Space between Edges</string>
+<string name="space_medium">medium</string>
+<string name="space_narrow">narrow</string>
+<string name="space_nothing">without</string>
+<string name="space_wide">wide</string>
+<string name="speed">Edges speed</string>
+<string name="star">"★★★★★ 
+ 5 Stars please ♡"</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+<string name="status_only">if screen is on, light notifications bar only</string>
+<string name="swipeUp">Swipe Up To Close</string>
+<string name="tell_friend">tell a friend</string>
+<string name="terms">"
+ Privacy Policy 
+ Your privacy is important to us. It is AOE's policy to respect your privacy regarding any information we may collect from you through our app, Always On Edge. 
+ We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we're collecting it and how it will be used. 
+ We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. 
+ We don't share any personally identifying information publicly or with third-parties, except when required to by law. 
+ Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies. 
+ You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services. 
+ Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us. 
+ This policy is effective as of 10 June 2019. 
+ 
+ AOE Terms of Service 
+ 1. Terms 
+ By accessing our app, Always On Edge, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Always On Edge. The materials contained in Always On Edge are protected by applicable copyright and trademark law. 
+ 2. Use License 
+ 
+ 
+ Permission is granted to temporarily download one copy of Always On Edge per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: 
+ 
+ modify or copy the materials; 
+ use the materials for any commercial purpose, or for any public display (commercial or non-commercial); 
+ attempt to decompile or reverse engineer any software contained in Always On Edge; 
+ remove any copyright or other proprietary notations from the materials; or 
+ transfer the materials to another person or mirror the materials on any other server. 
+ 
+ 
+ This license shall automatically terminate if you violate any of these restrictions and may be terminated by AOE at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format. 
+ 
+ 3. Disclaimer 
+ 
+ The materials within Always On Edge are provided on an as is basis. AOE makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. 
+ Further, AOE does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its app or otherwise relating to such materials or on any sites linked to Always On Edge. 
+ 
+ 4. Limitations 
+ In no event shall AOE or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Always On Edge, even if AOE or a AOE authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you. 
+ 5. Accuracy of materials 
+ The materials appearing in Always On Edge could include technical, typographical, or photographic errors. AOE does not warrant that any of the materials on Always On Edge are accurate, complete or current. AOE may make changes to the materials contained in Always On Edge at any time without notice. However AOE does not make any commitment to update the materials. 
+ 6. Links 
+ AOE has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by AOE of the site. Use of any such linked website is at the user's own risk. 
+ 7. Modifications 
+ AOE may revise these terms of service for its app at any time without notice. By using Always On Edge you are agreeing to be bound by the then current version of these terms of service. 
+ 8. Governing Law 
+ These terms and conditions are governed by and construed in accordance with the laws of Saudi Arabia and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location. 
+ Generated by GetTerms.io"</string>
+<string name="termsconditions">terms and conditions</string>
+<string name="text">Click here for settings</string>
+<string name="thickness">Edges thickness</string>
+<string name="tile">You can add toggle in notification panel to switch between manual run (disable) / or any other you select (enable)</string>
+<string name="to">to</string>
+<string name="top_corners">top corners</string>
+<string name="trial">6H trial</string>
+<string name="trislnotytext">settings will have no effect until saved again</string>
+<string name="trislnotytitle">Trial period has been expired</string>
+<string name="type">Edges style</string>
+<string name="type_crash">crash (screen off only)</string>
+<string name="type_flicker">flicker</string>
+<string name="type_follow">follow</string>
+<string name="type_shine">shine (more power)</string>
+<string name="type_sparkle">sparkle (screen off only)</string>
+<string name="type_stable">stable (save power, use 0% CPU)</string>
+<string name="type_tides">tides</string>
+<string name="type_worm">worm</string>
+<string name="unlock_premium_why">"This app is an individual work, no company or a wealthy man behind it. so excuse me for making you choose between seeing a short Ad or purchasing 
+ the price is not more than a cup of coffee for who spend tons of minutes, efforts and calories to make this for you."</string>
+<string name="unlock_video">Unlock By AD</string>
+<string name="vertical">vertical</string>
+<string name="vidadid">ca-app-pub-8737254093875436/2864550883</string>
+<string name="vidadidsingle">ca-app-pub-8737254093875436/3910510684</string>
+<string name="watch_tellend">watch the video till the end</string>
+<string name="wavesonly">if screen is on, use colors waves only</string>
+<string name="wear_settings">"Light your Android Smart Watch (NOT for Samsung's)"</string>
+<string name="widgetsSettings">Widgets Settings</string>
+<string name="widgets_info">widgets changes its position every 20m. of cource widgets will use additional power (optimized also), but the main usage of the app is edge lighting</string>
+<string name="widgets_move_time">change widgets position every :</string>
+<string name="yes">OK</string>
+<string name="youCanTerminate">Whatever run option you choose, you can, at anytime, press volume down key to terminate the app and never run again until the next device lock</string>
+</resources>
